@@ -6,14 +6,23 @@
 ![Image alt](https://i.ibb.co/dgmS9Ny/photo-2024-01-22-10-52-58.jpg)
 
 HVNC
+
 VNC
+
 SMS Interceptor
+
 Auto-commands (Block Message Push, Add C&C Domain, Desired Applications, Uninstall Applications, and more)
+
 Send SMS
+
 Sending USSD
+
 Anti-Sleep
+
 Keylogger
+
 Open URL
+
 Disable Screen
 
 http://t.me/Aliendot
